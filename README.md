@@ -38,7 +38,7 @@ license](https://img.shields.io/github/license/HearLing/awesome-stars-hearling)]
 
 ## Vue
 
-*   [HearLing/vue3-management-system](https://github.com/HearLing/vue3-management-system) - vue3+typescript+pinia管理系统
+*   [chovue/vue3-management-system](https://github.com/chovue/vue3-management-system) - vue3+typescript+pinia 管理系统
 
 ## TypeScript
 
