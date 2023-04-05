@@ -17,12 +17,20 @@ license](https://img.shields.io/github/license/HearLing/awesome-stars-hearling)]
 
 ## Table of Contents
 
+*   [HTML](#html)
 *   [miscellaneous](#miscellaneous)
 *   [Vue](#vue)
 *   [TypeScript](#typescript)
-*   [HTML](#html)
 *   [JavaScript](#javascript)
 *   [Thanks](#thanks)
+
+## HTML
+
+*   [HearLing/hexo-butterfly-blog](https://github.com/HearLing/hexo-butterfly-blog) - HearLing 个人博客备份私有仓库
+
+*   [Chocolate1999/hexo-blog-lionkk](https://github.com/Chocolate1999/hexo-blog-lionkk) - :zap:魔改自butterfly :butterfly:主题，提供完整详细的文档，同时为了回馈开源，这不是生成后的网页文件，是您可以直接使用的源码，您只需要把博客相关信息换成您自己的就可以部署了，对于新手或者不懂编程的小伙伴来说，简直是福音！:heart:
+
+*   [HearLing/HearLing.github.io](https://github.com/HearLing/HearLing.github.io) - HearLing 博客网站，B 站同名 HearLing
 
 ## miscellaneous
 
@@ -55,12 +63,6 @@ license](https://img.shields.io/github/license/HearLing/awesome-stars-hearling)]
 *   [jannikbuschke/formik-antd](https://github.com/jannikbuschke/formik-antd) - Simple declarative bindings for Ant Design and Formik.
 
 *   [bmvantunes/youtube-2020-june-multi-step-form-formik](https://github.com/bmvantunes/youtube-2020-june-multi-step-form-formik) - A repository with a multi-step form using Formik, Yup and Material-UI
-
-## HTML
-
-*   [Chocolate1999/hexo-blog-lionkk](https://github.com/Chocolate1999/hexo-blog-lionkk) - :zap:魔改自butterfly :butterfly:主题，提供完整详细的文档，同时为了回馈开源，这不是生成后的网页文件，是您可以直接使用的源码，您只需要把博客相关信息换成您自己的就可以部署了，对于新手或者不懂编程的小伙伴来说，简直是福音！:heart:
-
-*   [HearLing/HearLing.github.io](https://github.com/HearLing/HearLing.github.io) - HearLing 博客网站，B 站同名 HearLing
 
 ## JavaScript
 
