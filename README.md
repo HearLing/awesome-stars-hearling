@@ -17,12 +17,16 @@ license](https://img.shields.io/github/license/HearLing/awesome-stars-hearling)]
 
 ## Table of Contents
 
+*   [Vue](#vue)
 *   [HTML](#html)
 *   [miscellaneous](#miscellaneous)
-*   [Vue](#vue)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [Thanks](#thanks)
+
+## Vue
+
+*   [chovue/vue3-management-system](https://github.com/chovue/vue3-management-system) - vue3+typescript+pinia 管理系统
 
 ## HTML
 
@@ -43,10 +47,6 @@ license](https://img.shields.io/github/license/HearLing/awesome-stars-hearling)]
 *   [Chocolate1999/emoji-list](https://github.com/Chocolate1999/emoji-list) - emoji list; emoji表情列表
 
 *   [Chocolate1999/leetcode-javascript](https://github.com/Chocolate1999/leetcode-javascript) - LeetCode 力扣的 JavaScript 解题仓库，前端刷题路线（思维导图）。小伙伴们可以在Issues中提交自己的解题代码，🤝 欢迎Contributing，可打卡刷题，Give a ⭐️ if this project helped you!
-
-## Vue
-
-*   [chovue/vue3-management-system](https://github.com/chovue/vue3-management-system) - vue3+typescript+pinia 管理系统
 
 ## TypeScript
 

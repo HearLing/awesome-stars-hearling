@@ -1,4 +1,40 @@
 {
+  "Vue": [
+    {
+      "id": 601885465,
+      "node_id": "R_kgDOI-ALGQ",
+      "name": "vue3-management-system",
+      "full_name": "chovue/vue3-management-system",
+      "owner": {
+        "login": "chovue",
+        "id": 129639369,
+        "avatar_url": "https://avatars.githubusercontent.com/u/129639369?v=4",
+        "url": "https://api.github.com/users/chovue",
+        "html_url": "https://github.com/chovue"
+      },
+      "html_url": "https://github.com/chovue/vue3-management-system",
+      "description": "vue3+typescript+pinia 管理系统",
+      "url": "https://api.github.com/repos/chovue/vue3-management-system",
+      "languages_url": "https://api.github.com/repos/chovue/vue3-management-system/languages",
+      "created_at": "2023-02-15T03:02:05Z",
+      "updated_at": "2023-04-15T07:55:29Z",
+      "git_url": "git://github.com/chovue/vue3-management-system.git",
+      "ssh_url": "git@github.com:chovue/vue3-management-system.git",
+      "clone_url": "https://github.com/chovue/vue3-management-system.git",
+      "homepage": "https://vue3-management-system.netlify.app",
+      "stargazers_count": 5,
+      "watchers_count": 5,
+      "language": "Vue",
+      "topics": [
+        "axios",
+        "echart",
+        "elementplus",
+        "pinia",
+        "typescript",
+        "vue3"
+      ]
+    }
+  ],
   "HTML": [
     {
       "id": 423041885,
@@ -108,7 +144,7 @@
       "url": "https://api.github.com/repos/Chocolate1999/Chocolate1999",
       "languages_url": "https://api.github.com/repos/Chocolate1999/Chocolate1999/languages",
       "created_at": "2020-08-22T06:41:34Z",
-      "updated_at": "2023-04-14T23:23:54Z",
+      "updated_at": "2023-04-15T23:23:22Z",
       "git_url": "git://github.com/Chocolate1999/Chocolate1999.git",
       "ssh_url": "git@github.com:Chocolate1999/Chocolate1999.git",
       "clone_url": "https://github.com/Chocolate1999/Chocolate1999.git",
@@ -229,42 +265,6 @@
         "leetcode",
         "leetcode-javascript",
         "star"
-      ]
-    }
-  ],
-  "Vue": [
-    {
-      "id": 601885465,
-      "node_id": "R_kgDOI-ALGQ",
-      "name": "vue3-management-system",
-      "full_name": "chovue/vue3-management-system",
-      "owner": {
-        "login": "chovue",
-        "id": 129639369,
-        "avatar_url": "https://avatars.githubusercontent.com/u/129639369?v=4",
-        "url": "https://api.github.com/users/chovue",
-        "html_url": "https://github.com/chovue"
-      },
-      "html_url": "https://github.com/chovue/vue3-management-system",
-      "description": "vue3+typescript+pinia 管理系统",
-      "url": "https://api.github.com/repos/chovue/vue3-management-system",
-      "languages_url": "https://api.github.com/repos/chovue/vue3-management-system/languages",
-      "created_at": "2023-02-15T03:02:05Z",
-      "updated_at": "2023-04-13T10:45:51Z",
-      "git_url": "git://github.com/chovue/vue3-management-system.git",
-      "ssh_url": "git@github.com:chovue/vue3-management-system.git",
-      "clone_url": "https://github.com/chovue/vue3-management-system.git",
-      "homepage": "https://vue3-management-system.netlify.app",
-      "stargazers_count": 5,
-      "watchers_count": 5,
-      "language": "Vue",
-      "topics": [
-        "axios",
-        "echart",
-        "elementplus",
-        "pinia",
-        "typescript",
-        "vue3"
       ]
     }
   ],
