@@ -26,13 +26,15 @@ license](https://img.shields.io/github/license/HearLing/awesome-stars-hearling)]
 
 ## TypeScript
 
+*   [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
+
 *   [liou666/polyglot](https://github.com/liou666/polyglot) - 🤖️ 桌面端AI语言练习应用
 
 *   [chodocs/chodocs](https://github.com/chodocs/chodocs) - 一站式前端内容网站，包括学习路线、知识体系。用专栏形式更新，原创不易，Give a ⭐️ if this project helped you!
 
 *   [Chocolate1999/customer-carousel-case](https://github.com/Chocolate1999/customer-carousel-case) - a demo for customer carousel case  use swiper and slick
 
-*   [Chocolate1999/nextjs-tailwind-blog](https://github.com/Chocolate1999/nextjs-tailwind-blog) - The most beautiful minimalist blog in modern built with Nextjs and tailwindcss.
+*   [chonext/blog](https://github.com/chonext/blog) - The most beautiful minimalist blog in modern built with Nextjs and tailwindcss.
 
 *   [dai-shi/proxy-memoize](https://github.com/dai-shi/proxy-memoize) - Intuitive magical memoization library with Proxy and WeakMap
 
