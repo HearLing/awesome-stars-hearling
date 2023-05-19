@@ -58,7 +58,7 @@ license](https://img.shields.io/github/license/HearLing/awesome-stars-hearling)]
 
 ## miscellaneous
 
-*   [Chocolate1999/Chocolate1999](https://github.com/Chocolate1999/Chocolate1999) - Chocolate readme profile with 7 stars and 16 forks 🌟
+*   [Chocolate1999/Chocolate1999](https://github.com/Chocolate1999/Chocolate1999) - Chocolate readme profile with 7 stars and 15 forks 🌟
 
 *   [HearLing/Blog](https://github.com/HearLing/Blog) - 小玲写博客的地方，目前在写设计模式以及面试相关专题
 
