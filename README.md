@@ -17,13 +17,27 @@ license](https://img.shields.io/github/license/HearLing/awesome-stars-hearling)]
 
 ## Table of Contents
 
+*   [miscellaneous](#miscellaneous)
 *   [Java](#java)
 *   [TypeScript](#typescript)
 *   [Vue](#vue)
 *   [HTML](#html)
-*   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
 *   [Thanks](#thanks)
+
+## miscellaneous
+
+*   [Chocolate1999/use](https://github.com/Chocolate1999/use) - Things I am using
+
+*   [Chocolate1999/Chocolate1999](https://github.com/Chocolate1999/Chocolate1999) - Chocolate readme profile with 8 stars and 15 forks 🌟
+
+*   [HearLing/Blog](https://github.com/HearLing/Blog) - 小玲写博客的地方，目前在写设计模式以及面试相关专题
+
+*   [LionCubFrontEnd/Chocolate-2022](https://github.com/LionCubFrontEnd/Chocolate-2022) - ⚡用此来记录在 2022 年学习与成长，自我驱动 | 坚持 | 热爱 | 积极，座右铭：学如逆水行舟，不进则退❤️
+
+*   [Chocolate1999/emoji-list](https://github.com/Chocolate1999/emoji-list) - emoji list; emoji表情列表
+
+*   [Chocolate1999/leetcode-javascript](https://github.com/Chocolate1999/leetcode-javascript) - LeetCode 力扣的 JavaScript 解题仓库，前端刷题路线（思维导图）。小伙伴们可以在Issues中提交自己的解题代码，🤝 欢迎Contributing，可打卡刷题，Give a ⭐️ if this project helped you!
 
 ## Java
 
@@ -60,18 +74,6 @@ license](https://img.shields.io/github/license/HearLing/awesome-stars-hearling)]
 *   [Chocolate1999/hexo-blog-lionkk](https://github.com/Chocolate1999/hexo-blog-lionkk) - :zap:魔改自butterfly :butterfly:主题，提供完整详细的文档，同时为了回馈开源，这不是生成后的网页文件，是您可以直接使用的源码，您只需要把博客相关信息换成您自己的就可以部署了，对于新手或者不懂编程的小伙伴来说，简直是福音！:heart:
 
 *   [HearLing/HearLing.github.io](https://github.com/HearLing/HearLing.github.io) - HearLing 博客网站，B 站同名 HearLing
-
-## miscellaneous
-
-*   [Chocolate1999/Chocolate1999](https://github.com/Chocolate1999/Chocolate1999) - Chocolate readme profile with 8 stars and 15 forks 🌟
-
-*   [HearLing/Blog](https://github.com/HearLing/Blog) - 小玲写博客的地方，目前在写设计模式以及面试相关专题
-
-*   [LionCubFrontEnd/Chocolate-2022](https://github.com/LionCubFrontEnd/Chocolate-2022) - ⚡用此来记录在 2022 年学习与成长，自我驱动 | 坚持 | 热爱 | 积极，座右铭：学如逆水行舟，不进则退❤️
-
-*   [Chocolate1999/emoji-list](https://github.com/Chocolate1999/emoji-list) - emoji list; emoji表情列表
-
-*   [Chocolate1999/leetcode-javascript](https://github.com/Chocolate1999/leetcode-javascript) - LeetCode 力扣的 JavaScript 解题仓库，前端刷题路线（思维导图）。小伙伴们可以在Issues中提交自己的解题代码，🤝 欢迎Contributing，可打卡刷题，Give a ⭐️ if this project helped you!
 
 ## JavaScript
 
