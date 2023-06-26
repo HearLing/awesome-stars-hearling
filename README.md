@@ -17,6 +17,7 @@ license](https://img.shields.io/github/license/HearLing/awesome-stars-hearling)]
 
 ## Table of Contents
 
+*   [CSS](#css)
 *   [miscellaneous](#miscellaneous)
 *   [Java](#java)
 *   [TypeScript](#typescript)
@@ -24,6 +25,12 @@ license](https://img.shields.io/github/license/HearLing/awesome-stars-hearling)]
 *   [HTML](#html)
 *   [JavaScript](#javascript)
 *   [Thanks](#thanks)
+
+## CSS
+
+*   [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
+
+*   [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 
 ## miscellaneous
 
