@@ -17,14 +17,36 @@ license](https://img.shields.io/github/license/HearLing/awesome-stars-hearling)]
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
 *   [CSS](#css)
 *   [miscellaneous](#miscellaneous)
 *   [Java](#java)
-*   [TypeScript](#typescript)
 *   [Vue](#vue)
 *   [HTML](#html)
 *   [JavaScript](#javascript)
 *   [Thanks](#thanks)
+
+## TypeScript
+
+*   [panyushan-jade/react-template-admin](https://github.com/panyushan-jade/react-template-admin) - A lightweight React18 backend management template
+
+*   [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
+
+*   [liou666/polyglot](https://github.com/liou666/polyglot) - 🤖️ 跨平台AI语言练习应用
+
+*   [chodocs/chodocs](https://github.com/chodocs/chodocs) - 一站式前端内容网站，包括学习路线、知识体系。用专栏形式更新，原创不易，Give a ⭐️ if this project helped you!
+
+*   [Chocolate1999/customer-carousel-case](https://github.com/Chocolate1999/customer-carousel-case) - a demo for customer carousel case  use swiper and slick
+
+*   [chonext/blog](https://github.com/chonext/blog) - The most beautiful minimalist blog in modern built with Nextjs and tailwindcss.
+
+*   [dai-shi/proxy-memoize](https://github.com/dai-shi/proxy-memoize) - Intuitive magical memoization library with Proxy and WeakMap
+
+*   [Styx11/react-intl-linter](https://github.com/Styx11/react-intl-linter) - 自动抽取中文字符串为 react-intl 代码的 VSCode 插件
+
+*   [jannikbuschke/formik-antd](https://github.com/jannikbuschke/formik-antd) - Simple declarative bindings for Ant Design and Formik.
+
+*   [bmvantunes/youtube-2020-june-multi-step-form-formik](https://github.com/bmvantunes/youtube-2020-june-multi-step-form-formik) - A repository with a multi-step form using Formik, Yup and Material-UI
 
 ## CSS
 
@@ -49,26 +71,6 @@ license](https://img.shields.io/github/license/HearLing/awesome-stars-hearling)]
 ## Java
 
 *   [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
-
-## TypeScript
-
-*   [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
-
-*   [liou666/polyglot](https://github.com/liou666/polyglot) - 🤖️ 跨平台AI语言练习应用
-
-*   [chodocs/chodocs](https://github.com/chodocs/chodocs) - 一站式前端内容网站，包括学习路线、知识体系。用专栏形式更新，原创不易，Give a ⭐️ if this project helped you!
-
-*   [Chocolate1999/customer-carousel-case](https://github.com/Chocolate1999/customer-carousel-case) - a demo for customer carousel case  use swiper and slick
-
-*   [chonext/blog](https://github.com/chonext/blog) - The most beautiful minimalist blog in modern built with Nextjs and tailwindcss.
-
-*   [dai-shi/proxy-memoize](https://github.com/dai-shi/proxy-memoize) - Intuitive magical memoization library with Proxy and WeakMap
-
-*   [Styx11/react-intl-linter](https://github.com/Styx11/react-intl-linter) - 自动抽取中文字符串为 react-intl 代码的 VSCode 插件
-
-*   [jannikbuschke/formik-antd](https://github.com/jannikbuschke/formik-antd) - Simple declarative bindings for Ant Design and Formik.
-
-*   [bmvantunes/youtube-2020-june-multi-step-form-formik](https://github.com/bmvantunes/youtube-2020-june-multi-step-form-formik) - A repository with a multi-step form using Formik, Yup and Material-UI
 
 ## Vue
 
