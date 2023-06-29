@@ -28,6 +28,8 @@ license](https://img.shields.io/github/license/HearLing/awesome-stars-hearling)]
 
 ## TypeScript
 
+*   [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs
+
 *   [panyushan-jade/react-template-admin](https://github.com/panyushan-jade/react-template-admin) - A lightweight React18 backend management template
 
 *   [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
