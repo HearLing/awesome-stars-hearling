@@ -17,16 +17,30 @@ license](https://img.shields.io/github/license/HearLing/awesome-stars-hearling)]
 
 ## Table of Contents
 
+*   [Java](#java)
+*   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [CSS](#css)
 *   [miscellaneous](#miscellaneous)
-*   [Java](#java)
 *   [Vue](#vue)
 *   [HTML](#html)
-*   [JavaScript](#javascript)
 *   [Thanks](#thanks)
 
+## Java
+
+*   [jinatonic/confetti](https://github.com/jinatonic/confetti) - An Android particle system library for displaying confetti!
+
+*   [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
+
+## JavaScript
+
+*   [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 on-demand confetti gun
+
+*   [Chocolate1999/Front-end-learning-to-organize-notes](https://github.com/Chocolate1999/Front-end-learning-to-organize-notes) - ☀小狮子前端の学习☁整理笔记❤   Front-end-learning-to-organize-notes 帮你整理好前端知识体系、更高效地吸收经验成果；另附小狮子前端进阶小册食用指北，敬请关注！
+
 ## TypeScript
+
+*   [loonywizard/js-confetti](https://github.com/loonywizard/js-confetti) - JS Confetti library that supports emojis 🦄 🎉 ⚡️
 
 *   [ant-design/pro-components](https://github.com/ant-design/pro-components) - 🏆 Use Ant Design like a Pro!
 
@@ -72,10 +86,6 @@ license](https://img.shields.io/github/license/HearLing/awesome-stars-hearling)]
 
 *   [Chocolate1999/leetcode-javascript](https://github.com/Chocolate1999/leetcode-javascript) - LeetCode 力扣的 JavaScript 解题仓库，前端刷题路线（思维导图）。小伙伴们可以在Issues中提交自己的解题代码，🤝 欢迎Contributing，可打卡刷题，Give a ⭐️ if this project helped you!
 
-## Java
-
-*   [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
-
 ## Vue
 
 *   [chovue/vue3-management-system](https://github.com/chovue/vue3-management-system) - vue3+typescript+pinia 管理系统
@@ -87,10 +97,6 @@ license](https://img.shields.io/github/license/HearLing/awesome-stars-hearling)]
 *   [Chocolate1999/hexo-blog-lionkk](https://github.com/Chocolate1999/hexo-blog-lionkk) - :zap:魔改自butterfly :butterfly:主题，提供完整详细的文档，同时为了回馈开源，这不是生成后的网页文件，是您可以直接使用的源码，您只需要把博客相关信息换成您自己的就可以部署了，对于新手或者不懂编程的小伙伴来说，简直是福音！:heart:
 
 *   [HearLing/HearLing.github.io](https://github.com/HearLing/HearLing.github.io) - HearLing 博客网站，B 站同名 HearLing
-
-## JavaScript
-
-*   [Chocolate1999/Front-end-learning-to-organize-notes](https://github.com/Chocolate1999/Front-end-learning-to-organize-notes) - ☀小狮子前端の学习☁整理笔记❤   Front-end-learning-to-organize-notes 帮你整理好前端知识体系、更高效地吸收经验成果；另附小狮子前端进阶小册食用指北，敬请关注！
 
 ## Thanks
 
