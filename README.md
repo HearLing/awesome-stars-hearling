@@ -22,6 +22,7 @@ license](https://img.shields.io/github/license/HearLing/awesome-stars-hearling)]
 *   [TypeScript](#typescript)
 *   [CSS](#css)
 *   [miscellaneous](#miscellaneous)
+*   [C++](#c)
 *   [Vue](#vue)
 *   [HTML](#html)
 *   [Thanks](#thanks)
@@ -29,8 +30,6 @@ license](https://img.shields.io/github/license/HearLing/awesome-stars-hearling)]
 ## Java
 
 *   [jinatonic/confetti](https://github.com/jinatonic/confetti) - An Android particle system library for displaying confetti!
-
-*   [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 
 ## JavaScript
 
@@ -85,6 +84,10 @@ license](https://img.shields.io/github/license/HearLing/awesome-stars-hearling)]
 *   [Chocolate1999/emoji-list](https://github.com/Chocolate1999/emoji-list) - emoji list; emoji表情列表
 
 *   [Chocolate1999/leetcode-javascript](https://github.com/Chocolate1999/leetcode-javascript) - LeetCode 力扣的 JavaScript 解题仓库，前端刷题路线（思维导图）。小伙伴们可以在Issues中提交自己的解题代码，🤝 欢迎Contributing，可打卡刷题，Give a ⭐️ if this project helped you!
+
+## C++
+
+*   [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 
 ## Vue
 
