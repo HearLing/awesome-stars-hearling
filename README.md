@@ -17,9 +17,9 @@ license](https://img.shields.io/github/license/HearLing/awesome-stars-hearling)]
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
 *   [Java](#java)
 *   [JavaScript](#javascript)
-*   [TypeScript](#typescript)
 *   [CSS](#css)
 *   [miscellaneous](#miscellaneous)
 *   [C++](#c)
@@ -27,17 +27,9 @@ license](https://img.shields.io/github/license/HearLing/awesome-stars-hearling)]
 *   [HTML](#html)
 *   [Thanks](#thanks)
 
-## Java
-
-*   [jinatonic/confetti](https://github.com/jinatonic/confetti) - An Android particle system library for displaying confetti!
-
-## JavaScript
-
-*   [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 on-demand confetti gun
-
-*   [Chocolate1999/Front-end-learning-to-organize-notes](https://github.com/Chocolate1999/Front-end-learning-to-organize-notes) - ☀小狮子前端の学习☁整理笔记❤   Front-end-learning-to-organize-notes 帮你整理好前端知识体系、更高效地吸收经验成果；另附小狮子前端进阶小册食用指北，敬请关注！
-
 ## TypeScript
+
+*   [youzan/vant](https://github.com/youzan/vant) - A lightweight, customizable Vue UI library for mobile web apps.
 
 *   [loonywizard/js-confetti](https://github.com/loonywizard/js-confetti) - JS Confetti library that supports emojis 🦄 🎉 ⚡️
 
@@ -64,6 +56,16 @@ license](https://img.shields.io/github/license/HearLing/awesome-stars-hearling)]
 *   [jannikbuschke/formik-antd](https://github.com/jannikbuschke/formik-antd) - Simple declarative bindings for Ant Design and Formik.
 
 *   [bmvantunes/youtube-2020-june-multi-step-form-formik](https://github.com/bmvantunes/youtube-2020-june-multi-step-form-formik) - A repository with a multi-step form using Formik, Yup and Material-UI
+
+## Java
+
+*   [jinatonic/confetti](https://github.com/jinatonic/confetti) - An Android particle system library for displaying confetti!
+
+## JavaScript
+
+*   [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 on-demand confetti gun
+
+*   [Chocolate1999/Front-end-learning-to-organize-notes](https://github.com/Chocolate1999/Front-end-learning-to-organize-notes) - ☀小狮子前端の学习☁整理笔记❤   Front-end-learning-to-organize-notes 帮你整理好前端知识体系、更高效地吸收经验成果；另附小狮子前端进阶小册食用指北，敬请关注！
 
 ## CSS
 
