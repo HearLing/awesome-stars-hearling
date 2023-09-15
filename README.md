@@ -17,14 +17,22 @@ license](https://img.shields.io/github/license/HearLing/awesome-stars-hearling)]
 
 ## Table of Contents
 
+*   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [Java](#java)
-*   [JavaScript](#javascript)
 *   [CSS](#css)
 *   [miscellaneous](#miscellaneous)
 *   [Vue](#vue)
 *   [HTML](#html)
 *   [Thanks](#thanks)
+
+## JavaScript
+
+*   [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
+
+*   [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 on-demand confetti gun
+
+*   [Chocolate1999/Front-end-learning-to-organize-notes](https://github.com/Chocolate1999/Front-end-learning-to-organize-notes) - ☀小狮子前端の学习☁整理笔记❤   Front-end-learning-to-organize-notes 帮你整理好前端知识体系、更高效地吸收经验成果；另附小狮子前端进阶小册食用指北，敬请关注！
 
 ## TypeScript
 
@@ -61,12 +69,6 @@ license](https://img.shields.io/github/license/HearLing/awesome-stars-hearling)]
 *   [jinatonic/confetti](https://github.com/jinatonic/confetti) - An Android particle system library for displaying confetti!
 
 *   [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
-
-## JavaScript
-
-*   [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 on-demand confetti gun
-
-*   [Chocolate1999/Front-end-learning-to-organize-notes](https://github.com/Chocolate1999/Front-end-learning-to-organize-notes) - ☀小狮子前端の学习☁整理笔记❤   Front-end-learning-to-organize-notes 帮你整理好前端知识体系、更高效地吸收经验成果；另附小狮子前端进阶小册食用指北，敬请关注！
 
 ## CSS
 
