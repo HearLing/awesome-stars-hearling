@@ -28,6 +28,8 @@ license](https://img.shields.io/github/license/HearLing/awesome-stars-hearling)]
 
 ## JavaScript
 
+*   [hellojuantu/image\_border\_optimizer](https://github.com/hellojuantu/image_border_optimizer) - 轻量化的图片编辑器
+
 *   [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 
 *   [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 on-demand confetti gun
